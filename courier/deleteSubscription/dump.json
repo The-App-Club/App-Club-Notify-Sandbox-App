@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "created": "2022-01-29T11:31:33.627Z",
+      "id": "test-subscription-event",
+      "name": "Test Subscription Event",
+      "preferences": {
+        "notifications": {
+          "PZM0DZCP2XMTXZQRW5A0ECY431PW": {
+            "channel_preferences": [
+              {
+                "channel": "email"
+              }
+            ],
+            "rules": [],
+            "status": "OPTED_IN"
+          }
+        },
+        "categories": {}
+      },
+      "updated": "2022-01-29T11:31:33.627Z"
+    },
+    {
+      "created": "2022-01-29T11:41:36.504Z",
+      "id": "test3",
+      "name": "test3",
+      "preferences": {
+        "notifications": {
+          "6JDVWF0WKVMYZGK15STEG3VKRMPR": {
+            "channel_preferences": [],
+            "rules": [],
+            "status": "OPTED_IN"
+          }
+        },
+        "categories": {}
+      },
+      "updated": "2022-01-29T11:41:36.504Z"
+    },
+    {
+      "created": "2022-01-29T11:38:06.992Z",
+      "id": "test2",
+      "name": "test2",
+      "preferences": {
+        "notifications": {
+          "6JDVWF0WKVMYZGK15STEG3VKRMPR": {
+            "channel_preferences": [],
+            "rules": [],
+            "status": "OPTED_IN"
+          }
+        },
+        "categories": {}
+      },
+      "updated": "2022-01-29T11:41:11.953Z"
+    },
+    {
+      "created": "2022-01-29T11:32:16.657Z",
+      "id": "example.list.id",
+      "name": "Example List Name",
+      "preferences": {
+        "notifications": {
+          "PZM0DZCP2XMTXZQRW5A0ECY431PW": {
+            "channel_preferences": [],
+            "rules": [],
+            "status": "OPTED_IN"
+          }
+        },
+        "categories": {}
+      },
+      "updated": "2022-01-29T11:32:16.657Z"
+    },
+    {
+      "created": "2022-01-29T12:35:00.460Z",
+      "id": "test-subscription",
+      "name": "Test Subscription",
+      "preferences": {
+        "notifications": {
+          "6JDVWF0WKVMYZGK15STEG3VKRMPR": {
+            "channel_preferences": [],
+            "rules": [],
+            "status": "OPTED_IN"
+          }
+        },
+        "categories": {}
+      },
+      "updated": "2022-01-29T12:35:00.460Z"
+    }
+  ],
+  "paging": {
+    "cursor": null,
+    "more": false
+  }
+}

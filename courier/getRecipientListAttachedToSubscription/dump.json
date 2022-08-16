@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "created": "2022-01-29T13:07:51.455Z",
+      "preferences": {
+        "notifications": {
+          "PZM0DZCP2XMTXZQRW5A0ECY431PW": {
+            "channel_preferences": [],
+            "rules": [],
+            "status": "OPTED_IN"
+          }
+        },
+        "categories": {}
+      },
+      "recipientId": "6720e40f-4c8d-44e8-acb2-8b1aa4976dda"
+    }
+  ],
+  "paging": {
+    "cursor": null,
+    "more": false
+  }
+}

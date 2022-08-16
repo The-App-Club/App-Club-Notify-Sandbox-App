@@ -1,0 +1,76 @@
+{
+  "paging": { "cursor": null, "more": false },
+  "results": [
+    {
+      "created": 1643442687059,
+      "id": "D0CAVDR7AJM847QQFH3CF14WNW0N",
+      "name": "Test Notification Brand",
+      "published": 1643442712247,
+      "settings": {
+        "colors": {
+          "primary": "#9122C2",
+          "secondary": "#C1B6DD",
+          "tertiary": "#E85178"
+        },
+        "email": {
+          "head": { "inheritDefault": true },
+          "header": { "barColor": "#9121C2" },
+          "templateOverride": {
+            "enabled": true,
+            "width": "580px",
+            "backgroundColor": "#f5f5f5",
+            "head": "<style>\n  .body {\n    background: white;\n  }\n\n  h1 {\n    margin: 0;\n    font-size: 24px;\n    font-weight: bold;\n  }\n\n  .header, .footer {\n      padding: 10px 30px;\n  }\n\n  .padding-top {\n      background: #f5f5f5;\n      padding: 12px;\n  }\n</style>",
+            "header": "<div class=\"padding-top\"></div>\n<div class=\"header\">\n    <h1>I'm a Test Notification Brand</h1>\n</div>",
+            "footer": "<div class=\"footer\" style='color:#8F8F8F;font-size:11px;'>\n    I'm a Footer\n</div>",
+            "mjml": {
+              "backgroundColor": "#f5f5f5",
+              "footer": "<mj-wrapper css-class=\"blue-footer\" background-color=\"#1E3652\" full-width=\"full-width\">\n    <mj-section background-color=\"#1E3652\" padding=\"20px\">\n        <mj-column>\n                <mj-text align=\"center\" color=\"white\">My Footer</mj-text>\n        </mj-column>\n    </mj-section>\n</mj-wrapper>",
+              "head": "<mj-attributes>\n    <mj-all font-family=\"Helvetica, Arial, sans-serif\" />\n    <mj-text padding=\"0px\" font-size=\"14px\" color=\"#4c4c4c\"/>\n    <mj-image padding=\"0px\" />\n    <mj-wrapper padding=\"0px\"/>\n    <mj-section padding=\"8px 30px\" background-color=\"white\"/>\n    <mj-column padding=\"0px\" width=\"100%\" />\n</mj-attributes>\n<mj-style inline=\"inline\">\n    /* styles go here */\n</mj-style>",
+              "header": "<mj-wrapper css-class=\"header\" background-color=\"#F6FAFF\">\n    <mj-section padding-top=\"35px\">\n        <mj-column>\n            <mj-image src=\"https://s3.amazonaws.com/backend-production-librarybucket-1izigk5lryla9/c8fa99b7-d0d8-4225-8825-5ef259542665/1586288772006_Courier%20Logo%20Color@3x.png\"></mj-image>\n        </mj-column>\n        <mj-column>\n            <mj-text align=\"center\">My Header</mj-text>\n        </mj-column>\n    </mj-section>\n    <mj-section padding-top=\"35px\">\n        <mj-column>\n            <mj-divider padding=\"0px\" border-color=\"#ff7473\" border-width=\"2px\"></mj-divider>\n        </mj-column>\n    </mj-section>\n</mj-wrapper>",
+              "width": "580px",
+              "enabled": false
+            }
+          },
+          "footer": {}
+        }
+      },
+      "updated": 1643442712247,
+      "version": "2022-01-29T07:51:48.903Z"
+    },
+    {
+      "created": 1643437534035,
+      "id": "62051M6GPKMNSEPHGDZY04D5MKKH",
+      "name": "My First Brand",
+      "published": 1643442592206,
+      "settings": {
+        "colors": {
+          "primary": "#9122C2",
+          "secondary": "#C1B6DD",
+          "tertiary": "#E85178"
+        },
+        "email": {
+          "header": { "barColor": "#9D3789" },
+          "templateOverride": {
+            "enabled": true,
+            "width": "580px",
+            "backgroundColor": "#f5f5f5",
+            "head": "<style>\n  .body {\n    background: white;\n  }\n\n  h1 {\n    margin: 0;\n    font-size: 24px;\n    font-weight: bold;\n  }\n\n  .header, .footer {\n      padding: 10px 30px;\n  }\n\n  .padding-top {\n      background: #f5f5f5;\n      padding: 12px;\n  }\n</style>",
+            "header": "<div class=\"padding-top\"></div>\n<div class=\"header\">\n    <h1>I'm a Header</h1>\n</div>",
+            "footer": "<div class=\"footer\" style='color:#8F8F8F;font-size:11px;'>\n    I'm a Footer\n</div>",
+            "mjml": {
+              "backgroundColor": "#f5f5f5",
+              "footer": "<mj-wrapper css-class=\"blue-footer\" background-color=\"#1E3652\" full-width=\"full-width\">\n    <mj-section background-color=\"#1E3652\" padding=\"20px\">\n        <mj-column>\n                <mj-text align=\"center\" color=\"white\">My Footer</mj-text>\n        </mj-column>\n    </mj-section>\n</mj-wrapper>",
+              "head": "<mj-attributes>\n    <mj-all font-family=\"Helvetica, Arial, sans-serif\" />\n    <mj-text padding=\"0px\" font-size=\"14px\" color=\"#4c4c4c\"/>\n    <mj-image padding=\"0px\" />\n    <mj-wrapper padding=\"0px\"/>\n    <mj-section padding=\"8px 30px\" background-color=\"white\"/>\n    <mj-column padding=\"0px\" width=\"100%\" />\n</mj-attributes>\n<mj-style inline=\"inline\">\n    /* styles go here */\n</mj-style>",
+              "header": "<mj-wrapper css-class=\"header\" background-color=\"#F6FAFF\">\n    <mj-section padding-top=\"35px\">\n        <mj-column>\n            <mj-image src=\"https://s3.amazonaws.com/backend-production-librarybucket-1izigk5lryla9/c8fa99b7-d0d8-4225-8825-5ef259542665/1586288772006_Courier%20Logo%20Color@3x.png\"></mj-image>\n        </mj-column>\n        <mj-column>\n            <mj-text align=\"center\">My Header</mj-text>\n        </mj-column>\n    </mj-section>\n    <mj-section padding-top=\"35px\">\n        <mj-column>\n            <mj-divider padding=\"0px\" border-color=\"#ff7473\" border-width=\"2px\"></mj-divider>\n        </mj-column>\n    </mj-section>\n</mj-wrapper>",
+              "width": "580px",
+              "enabled": false
+            }
+          },
+          "footer": {}
+        }
+      },
+      "updated": 1643442592206,
+      "version": "2022-01-29T07:49:23.151Z"
+    }
+  ]
+}

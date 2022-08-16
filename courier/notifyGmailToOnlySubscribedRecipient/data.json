@@ -1,0 +1,12 @@
+{
+  "broadcastInfoList": [
+    {
+      "willSendedEmail": "mond@example.com",
+      "recipientId": "1db6745c-8de9-44fb-ab41-7ea147891b64"
+    },
+    {
+      "willSendedEmail": "hoge@example.com",
+      "recipientId": "6720e40f-4c8d-44e8-acb2-8b1aa4976dda"
+    }
+  ]
+}

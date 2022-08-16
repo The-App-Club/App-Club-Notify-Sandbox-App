@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "created": "2022-01-29T11:41:36.504Z",
+      "id": "test3",
+      "name": "test3",
+      "preferences": {
+        "notifications": {
+          "6JDVWF0WKVMYZGK15STEG3VKRMPR": {
+            "channel_preferences": [],
+            "rules": [],
+            "status": "OPTED_IN"
+          }
+        },
+        "categories": {}
+      },
+      "updated": "2022-01-29T11:41:36.504Z"
+    },
+    {
+      "created": "2022-01-29T12:35:00.460Z",
+      "id": "test-subscription",
+      "name": "Test Subscription",
+      "preferences": {
+        "notifications": {
+          "6JDVWF0WKVMYZGK15STEG3VKRMPR": {
+            "channel_preferences": [],
+            "rules": [],
+            "status": "OPTED_IN"
+          }
+        },
+        "categories": {}
+      },
+      "updated": "2022-01-29T12:35:00.460Z"
+    }
+  ],
+  "paging": {
+    "cursor": null,
+    "more": false
+  }
+}
